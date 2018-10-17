@@ -1,0 +1,23 @@
+{
+  "main.css": "/github-client/static/css/main.ea5888cb.chunk.css",
+  "main.js": "/github-client/static/js/main.93ab71a7.chunk.js",
+  "main.js.map": "/github-client/static/js/main.93ab71a7.chunk.js.map",
+  "static/css/1.385878e4.chunk.css": "/github-client/static/css/1.385878e4.chunk.css",
+  "static/js/1.6cb2573a.chunk.js": "/github-client/static/js/1.6cb2573a.chunk.js",
+  "static/js/1.6cb2573a.chunk.js.map": "/github-client/static/js/1.6cb2573a.chunk.js.map",
+  "runtime~main.js": "/github-client/static/js/runtime~main.f8b63dd7.js",
+  "runtime~main.js.map": "/github-client/static/js/runtime~main.f8b63dd7.js.map",
+  "static/media/GraphQLLanguageService.js.flow": "/github-client/static/media/GraphQLLanguageService.js.5ab204b9.flow",
+  "static/media/getAutocompleteSuggestions.js.flow": "/github-client/static/media/getAutocompleteSuggestions.js.7f98f032.flow",
+  "static/media/getDefinition.js.flow": "/github-client/static/media/getDefinition.js.4dbec62f.flow",
+  "static/media/getDiagnostics.js.flow": "/github-client/static/media/getDiagnostics.js.65b0979a.flow",
+  "static/media/getHoverInformation.js.flow": "/github-client/static/media/getHoverInformation.js.d9411837.flow",
+  "static/media/getOutline.js.flow": "/github-client/static/media/getOutline.js.c04e3998.flow",
+  "static/media/index.js.flow": "/github-client/static/media/index.js.02c24280.flow",
+  "static/media/autocompleteUtils.js.flow": "/github-client/static/media/autocompleteUtils.js.4ce7ba19.flow",
+  "static/css/main.ea5888cb.chunk.css.map": "/github-client/static/css/main.ea5888cb.chunk.css.map",
+  "static/css/1.385878e4.chunk.css.map": "/github-client/static/css/1.385878e4.chunk.css.map",
+  "index.html": "/github-client/index.html",
+  "precache-manifest.f480542fb058f371d5613dbd348c5c42.js": "/github-client/precache-manifest.f480542fb058f371d5613dbd348c5c42.js",
+  "service-worker.js": "/github-client/service-worker.js"
+}
