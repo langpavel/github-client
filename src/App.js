@@ -7,9 +7,7 @@ import './App.css';
 
 let apiUrl =
   localStorage.getItem('graphiql:apiUrl') || 'https://api.github.com/graphql';
-let apiToken =
-  localStorage.getItem('graphiql:token:' + apiUrl) ||
-  localStorage.getItem('ghToken');
+let apiToken = localStorage.getItem('graphiql:token:' + apiUrl);
 
 function setUrlToken(url, token) {
   apiUrl = url;
