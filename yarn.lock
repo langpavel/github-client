@@ -852,13 +852,13 @@
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"
   integrity sha512-5a6wqoJV/xEdbRNKVo6I4hO3VjyDq//8q2f9I6PBAvMesJHFauXDorcNCsr9RzvsZnaWi5NYCcfyqP1QeFHFbw==
 
-"@langpavel/graphiql@^0.12.1-patch5":
-  version "0.12.1-patch5"
-  resolved "https://registry.yarnpkg.com/@langpavel/graphiql/-/graphiql-0.12.1-patch5.tgz#a5955084b591928264edaed30f7095222da4f5aa"
-  integrity sha512-o4PFRfPuo43w2mo+vEJ0FBr7st0PRsUxCdq/WhtHSLDj7/+SUYe9pWjHwDyU3OsrJYkjfSnekE2pRsxhE/VWVg==
+"@langpavel/graphiql@^0.13.2":
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/@langpavel/graphiql/-/graphiql-0.13.2.tgz#0d627f3e486c1594a846abc614ff44e72b759bad"
+  integrity sha512-7qHn9xXv28k4JEZdRM+Ey+iycYjupPDQMDF4I2Fuq5HPnsVaWNnqMJmw8ebASu9bIbIUMXwb8xRLtxrOfnpFxQ==
   dependencies:
-    codemirror "^5.40.2"
-    codemirror-graphql "^0.7.1"
+    codemirror "^5.44.0"
+    codemirror-graphql "^0.8.3"
     markdown-it "^8.4.2"
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
@@ -2333,15 +2333,20 @@ code-point-at@^1.0.0:
   resolved "https://registry.yarnpkg.com/code-point-at/-/code-point-at-1.1.0.tgz#0d070b4d043a5bea33a2f1a40e2edb3d9a4ccf77"
   integrity sha1-DQcLTQQ6W+ozovGkDi7bPZpMz3c=
 
-codemirror-graphql@^0.7.1:
-  version "0.7.1"
-  resolved "https://registry.yarnpkg.com/codemirror-graphql/-/codemirror-graphql-0.7.1.tgz#64b995643d511b9aa8f85eeeb2feac7aeb4b94d4"
-  integrity sha512-HtHXMJAn6iGJYpijkzi3IlqWIdGrB6V0RqJ607yffJTCKk/OgaNtdLOb8hZJyEtHfkw7PZDaKybMAVCi6ScWSQ==
+codemirror-graphql@^0.8.3:
+  version "0.8.3"
+  resolved "https://registry.yarnpkg.com/codemirror-graphql/-/codemirror-graphql-0.8.3.tgz#8de806d418f72121ccfd9820594aa306ac0d3366"
+  integrity sha512-ZipSnPXFKDMThfvfTKTAt1dQmuGctVNann8hTZg6017+vwOcGpIqCuQIZLRDw/Y3zZfCyydRARHgbSydSCXpow==
   dependencies:
     graphql-language-service-interface "^1.3.2"
     graphql-language-service-parser "^1.2.2"
 
-codemirror@^5.40.2:
+codemirror@5.40.x:
+  version "5.40.2"
+  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.40.2.tgz#f4a41fee2d84e679543591b3680af259d903330b"
+  integrity sha512-yoWuvEiD3v5vTwdoMc/wu/Ld6dh9K/yEiEBTKOPGM+/pN0gTAqFNtrLHv1IJ1UJvzFpNRvMi92XCi3+8/iIaEw==
+
+codemirror@^5.44.0:
   version "5.44.0"
   resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.44.0.tgz#80dc2a231eeb7aab25ec2405cdca37e693ccf9cc"
   integrity sha512-3l42syTNakCdCQuYeZJXTyxina6Y9i4V0ighSJXNCQtRbaCN76smKKLu1ZHPHQon3rnzC7l4i/0r4gp809K1wg==

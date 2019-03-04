@@ -4,7 +4,8 @@
   "private": true,
   "homepage": "https://langpavel.github.io/github-client",
   "dependencies": {
-    "@langpavel/graphiql": "^0.12.1-patch5",
+    "@langpavel/graphiql": "^0.13.2",
+    "codemirror": "5.40.x",
     "graphql": "^14.1.1",
     "prettier": "^1.16.4",
     "react": "16.8.3",
