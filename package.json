@@ -5,11 +5,11 @@
   "homepage": "https://langpavel.github.io/github-client",
   "dependencies": {
     "@langpavel/graphiql": "^0.12.1-patch5",
-    "graphql": "^14.0.2",
-    "prettier": "^1.15.3",
-    "react": "16.7.0-alpha.2",
-    "react-dom": "16.7.0-alpha.2",
-    "react-scripts": "2.1.1"
+    "graphql": "^14.1.1",
+    "prettier": "^1.16.4",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-scripts": "2.1.5"
   },
   "scripts": {
     "start": "react-scripts start",
